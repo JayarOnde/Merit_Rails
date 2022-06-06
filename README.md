@@ -3,34 +3,6 @@
 Merit adds reputation behavior to Rails apps in the form of Badges, Points,
 and Rankings.
 
-[![Build Status](https://app.travis-ci.com/merit-gem/merit.svg?branch=master)](https://app.travis-ci.com/github/merit-gem/merit)
-[![Coverage Status](https://coveralls.io/repos/github/merit-gem/merit/badge.svg?branch=master)](https://coveralls.io/github/merit-gem/merit?branch=master)
-[![Code Climate](https://codeclimate.com/github/tute/merit/badges/gpa.svg)](https://codeclimate.com/github/tute/merit)
-
-# Table of Contents
-
-- [Installation](#installation)
-- [Badges](#badges)
-    - [Creating Badges](#creating-badges)
-        - [Example](#example)
-    - [Defining Rules](#defining-rules)
-        - [Examples](#examples)
-    - [Other Actions](#other-actions)
-    - [Displaying Badges](#displaying-badges)
-- [Points](#points)
-    - [Defining Rules](#defining-rules-1)
-        - [Examples](#examples-1)
-    - [Other Actions](#other-actions-1)
-    - [Displaying Points](#displaying-points)
-- [Rankings](#rankings)
-    - [Defining Rules](#defining-rules-2)
-        - [Examples](#examples-2)
-    - [Displaying Rankings](#displaying-rankings)
-- [How merit finds the target object](#how-merit-finds-the-target-object)
-- [Getting Notifications](#getting-notifications)
-- [I18n](#i18n)
-- [Uninstalling Merit](#uninstalling-merit)
-
 
 # Installation
 
